@@ -4,20 +4,9 @@ account_id = "14b5ecd8916149ea7cea5208c57b3944"
 workers_dev = false
 zone_id = "bd5e3317c90835eed8110082ffb4315b"
 routes = [
-  "https://www.verema.com",
-  "https://www.verema.com/blog/blogs-en-verema/ultimo",
-  "https://www.verema.com/blog/licores-destilados/*",
-  "https://www.verema.com/blog/verema/*",
-  "https://www.verema.com/bodegas/portada",
-  "https://www.verema.com/catas_virtuales/portada",
-  "https://www.verema.com/club/vinos",
-  "https://www.verema.com/eventos",
-  "https://www.verema.com/foros/cerveza/temas",
-  "https://www.verema.com/foros/foro-vino/temas",
-  "https://www.verema.com/foros/restaurantes/temas",
-  "https://www.verema.com/ponentes",
-  "https://www.verema.com/restaurantes/portada",
-  "https://www.verema.com/tienda",
-  "https://www.verema.com/videos",
+  "https://www.verema.com/blog/*",
+  "https://www.verema.com/bodegas/*",
+  "https://www.verema.com/foros/*",
+  "https://www.verema.com/restaurantes/*",
   "https://www.verema.com/vinos/*"
 ]
