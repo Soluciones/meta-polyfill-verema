@@ -17,8 +17,8 @@ async function handleRequest(request) {
   })
 
   const hasNativeSupportOnIframes = browser.satisfies({
-    chrome: '>81',
-    firefox: '>78'
+    chrome: '>85',
+    firefox: '>79'
   })
 
   const rewriter = new HTMLRewriter()
